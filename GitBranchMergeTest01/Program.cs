@@ -8,7 +8,7 @@ namespace GitBranchMergeTest01
 {
     internal class Program
     {
-        // br-5 | Modific-2
+        // br-5 | Modific-3
         static void Main(string[] args)
         {
         }
